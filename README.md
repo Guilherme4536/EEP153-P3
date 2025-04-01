@@ -18,16 +18,20 @@ Before 2020: Rising tensions between the Tigray People's Liberation Front (TPLF)
 
 2022: The UN's World Food Programme reported that the conflict in northern Ethiopia had displaced hundreds of thousands and left more than 13 million people in need of humanitarian food assistance, particularly in Afar, Amhara, and Tigray.
 
-Both sides of the conflict engaged in strategies that worsened the food crisis, including diverting aid,     destroying crops, and damaging infrastructure, exacerbating the effects of existing droughts.
+Throughout Conflict: Both sides of the conflict engaged in strategies that worsened the food crisis, including diverting aid, destroying crops, and damaging infrastructure, exacerbating the effects of existing droughts.
 
 August 2024: Food insecurity remains severe, with 15.8 million people still in need of assistance, and new conflicts emerging in Amhara and Oromia regions.
 
-Research Objectives
+## Research Objectives
 
 Food Price Analysis: Investigate changes in food prices before, during, and after the Tigray conflict.
 
 Demand Fluctuations: Determine whether demand for specific food items increased or decreased as a result of the conflict.
 
-Regional Disparities: Explore differences in food price trends across various Ethiopian regions.
+## Expected Outcomes
 
-Policy Implications: Provide insights for humanitarian organizations and policymakers on food security interventions in conflict-affected areas.
+1. Identification of food categories that experienced the highest price fluctuations.
+
+2. Insights into shifting consumer behavior in response to food scarcity and price changes.
+
+3. A clearer understanding of how conflict exacerbates food insecurity and disrupts markets.
