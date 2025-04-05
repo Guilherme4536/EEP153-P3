@@ -9,6 +9,9 @@ ConsumerDemands >= 0.4.3.dev0
 # Project3/food_demand.ipynb: 133,149,174,176,203,222
 matplotlib >= 3.3.4
 
+# ndb.py: 5
+Pint >= 0.8.1
+
 # Project3/food_demand.ipynb: 21,62,132,148,175,202,221
 # Project3/prices.ipynb: 3
 numpy >= 1.21.5
@@ -24,6 +27,8 @@ plotly >= 5.1.0
 
 eep153_tools >= 0.11
 python-gnupg
+
+fooddatacentral
 
 gspread_pandas >=3.3
 
