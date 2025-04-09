@@ -1,5 +1,9 @@
 # EEP153-P3
 
+## Code Review Instructions:
+
+Two main files to be reviewed include the Creating Nutritional Database and Ethiopia Demand and Utility Modelling. 
+
 ## Project Overview
 
 This project examines the impact of the Tigray conflict on food prices and demand in Ethiopia. We aim to analyze price fluctuations before and after the conflict and assess how these changes influenced consumer demand for different food items. 
